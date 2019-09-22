@@ -1,0 +1,172 @@
+{   
+    "screenshot_folder_path" : "C:\\Users\\Azazel\\Desktop\\projekte\\fallout\\screenshots\\",
+    "word_file_path": "C:\\Users\\Azazel\\Desktop\\projekte\\fallout\\deu.user-words",
+    "sheet_distance_between_ranged_and_melee": 2,
+    "google_sheet_name": "testsheet",
+    "google_api_file_path" : "C:\\Users\\Azazel\\Desktop\\projekte\\fallout\\FalloutReader-979156523830.json",
+    "effect_mod_type_order": [
+        "prefix",
+        "major",
+        "minor"
+    ],
+    "effects": {
+        "Verursacht 40% mehr Schaden bei starken Angriffen.": {
+            "translation": "40% more power attack damage",
+            "mod_type": "major"
+        },
+        "Verursacht mehr Schaden:je niedriger deine Gesundheit ist.": {
+            "translation": "Bloodied",
+            "mod_type": "prefix"
+        },
+        "Gewicht um 90% reduziert.": {
+            "translation": "90% reduced weight",
+            "mod_type": "minor"
+        },
+        "Kugeln explodieren und verursachen Flächenschaden.": {
+            "translation": "Explosive",
+            "mod_type": "major"
+        },
+        "Feuert ein zusätzliches Geschoss ab.": {
+            "translation": "Two Shot",
+            "mod_type": "prefix"
+        },
+        "25% höhere Feuerrate.": {
+            "translation": "25% increased fire rate",
+            "mod_type": "major"
+        },
+        "15% höhere Nachladegeschwindigkeit": {
+            "translation": "15% faster reload",
+            "mod_type": "minor"
+        },
+        "Ignoriert 50% der Rüstung deines Ziels.": {
+            "translation": "Anti-Armor",
+            "mod_type": "prefix"
+        },
+        "Du erleidest bei starken Angriffen 40% weniger Schaden.": {
+            "translation": "Take 40% less damage while power attacking",
+            "mod_type": "minor"
+        },
+        "+1 Wahrnehmung": {
+            "translation": "1 Perception",
+            "mod_type": "minor"
+        },
+        "+1 Beweglichkeit.": {
+            "translation": "1 Agility",
+            "mod_type": "minor"
+        },
+        "+1 Stärke.": {
+            "translation": "1 Strength",
+            "mod_type": "minor"
+        },
+        "Kritische Schüsse im V.A.T.S verursachen +50% Schaden.": {
+            "translation": "VATS critical shots do +50% damage",
+            "mod_type": "major"
+        },
+        "Mit jedem Treffer im V.A.T.S. füllt sich dein Balken für kritische Treffer um 15% schneller.": {
+            "translation": "Your VATS critical meter fills 15% faster",
+            "mod_type": "minor"
+        },
+        "+30% Schaden gegen Verbrannte.": {
+            "translation": "Zealot's",
+            "mod_type": "prefix"
+        },
+        "+250 Schadensresistenz beim Nachladen.": {
+            "translation": "250 damage resistance while reloading",
+            "mod_type": "minor"
+        },
+        "Zunehmender Schaden mit steigenden Entzugserscheinungen": {
+            "translation": "Junkie's",
+            "mod_type": "prefix"
+        },
+        "40% schnellere Zuschlaggeschwindigkeit": {
+            "translation": "40% increased swing speed",
+            "mod_type": "major"
+        },
+        "+30% Schaden gegen Supermutanten": {
+            "translation": "Mutant Slayer's",
+            "mod_type": "prefix"
+        },
+        "+50 Schadensresistenz beim Zielen.": {
+            "translation": "50 Damage resistance while aiming",
+            "mod_type": "minor"
+        },
+        "Regegeneriert deine Gesundheit für kurze Zeit:wenn du einen Gegner triffst.": {
+            "translation": "Vampire's",
+            "mod_type": "prefix"
+        },
+        "Erhöhte Bewegungsgeschwindigkeit beim Zielen.": {
+            "translation": "Move faster while aiming",
+            "mod_type": "minor"
+        },
+        "Erhöhter Schaden für jeden weiteren Treffer am selben Ziel.": {
+            "translation": "Furious",
+            "mod_type": "prefix"
+        },
+        "Vierfache Magazinkapazität": {
+            "translation": "Quad",
+            "mod_type": "prefix"
+        },
+        "25% weniger V.A.T.S-Aktionspunkte-Kosten.": {
+            "translation": "25% less VATS Action Point cost",
+            "mod_type": "minor"
+        }
+    },
+    "weapons": {
+        "Baseballschläger": {
+            "translation": "Baseball bat",
+            "ranged": false
+        },
+        "[Handgefertigt]": {
+            "translation": "Handmade rifle",
+            "ranged": true
+        },
+        "Ultrazit—Gatling—Laser": {
+            "translation": "Ultracite gatling laser",
+            "ranged": true
+        },
+        "Gatling—Plasma": {
+            "translation": "Gatling plasma",
+            "ranged": true
+        },
+        "Leichtes Maschinengewehr": {
+            "translation": "LMG",
+            "ranged": true
+        },
+        "Pumpgun": {
+            "translation": "Pumpgun",
+            "ranged": true
+        },
+        "Gamma—Kanone": {
+            "translation": "Gamma gun",
+            "ranged": true
+        },
+        "Laser Gewehr": {
+            "translation": "Laser rifle",
+            "ranged": true
+        },
+        "Kampfgewehr": {
+            "translation": "Combat rifle",
+            "ranged": true
+        },
+        "Grubenhauer—Handschuh": {
+            "translation": "Mole miner gauntlet",
+            "ranged": false
+        },
+        "Unterhebelgewehr": {
+            "translation": "Lever action rifle",
+            "ranged": true
+        },
+        "Gatling—Geschütz": {
+            "translation": "Gatling gun",
+            "ranged": true
+        },
+        "Doppelläufige Schrotflinte": {
+            "translation": "Double-barrel shotgun",
+            "ranged": true
+        },
+        "Minigun": {
+            "translation": "Minigun",
+            "ranged": true
+        }
+    }
+}
